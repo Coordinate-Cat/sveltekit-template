@@ -1,6 +1,8 @@
 # sveltekit-template
 
-so simple
+## so simple
+
+---
 
 > src/routes
 
@@ -11,3 +13,11 @@ index.svelte
 > src/lib
 
 /Header/index.svelte
+
+---
+
+```
+git clone https://github.com/Coordinate-Cat/sveltekit-template.git
+cd sveltekit-template
+npm run dev -- --open
+```
