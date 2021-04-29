@@ -1,6 +1,6 @@
 # sveltekit-template
 
-## so simple
+**so simple**
 
 ---
 
