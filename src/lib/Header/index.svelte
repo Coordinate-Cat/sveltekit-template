@@ -14,12 +14,10 @@
 		<ul>
 			<li class:active={$page.path === '/'}><a sveltekit:prefetch href="/">Home</a></li>
 			<li class:active={$page.path === '/about'}><a sveltekit:prefetch href="/about">About</a></li>
-			<li class:active={$page.path === '/todos'}><a sveltekit:prefetch href="/todos">Todos</a></li>
 		</ul>
 	</nav>
 
 	<div class="corner">
-		<p>TEST</p>
 	</div>
 </header>
 
@@ -40,11 +38,6 @@ header {
 	justify-content: center;
 	width: 100%;
 	height: 100%;
-}
-
-.corner p {
-	font-weight: 700;
-	font-size: 0.8rem;
 }
 
 .corner img {

@@ -10,7 +10,7 @@
 </svelte:head>
 
 <section>
-	<h1>SvelteKit app</h1>
+	<h1>Home page</h1>
 </section>
 
 <style>

@@ -9,9 +9,9 @@
 	<title>About</title>
 </svelte:head>
 
-<div class="content">
-	<h1>About this app</h1>
-</div>
+<section>
+	<h1>About page</h1>
+</section>
 
 <style>
 </style>
