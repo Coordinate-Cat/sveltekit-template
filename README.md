@@ -6,9 +6,9 @@
 
 > src/routes
 
-$layout.svelte
-about.svelte
-index.svelte
+/$layout.svelte <br>
+/about.svelte <br>
+/index.svelte
 
 > src/lib
 
